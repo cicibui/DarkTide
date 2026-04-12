@@ -29,9 +29,19 @@
 
 
 ## 使用教程
+视频教程：
+https://www.bilibili.com/video/BV1wzDSBqEsQ
 
 
+## 免杀效果
+- 火绒
+<img width="1491" height="736" alt="image" src="https://github.com/user-attachments/assets/6dbb412f-bc34-424e-a960-05e66c78d66e" />
 
+- 360
+<img width="1890" height="1322" alt="image" src="https://github.com/user-attachments/assets/389a2272-8020-490f-8701-1005e73c2dd9" />
+
+- defender
+<img width="1626" height="1083" alt="image" src="https://github.com/user-attachments/assets/08f0729e-34d4-422e-aaae-dea767da5eab" />
 
 
 ## 更新记录
