@@ -65,7 +65,7 @@ https://www.bilibili.com/video/BV1wzDSBqEsQ
 
 
 
-## 使用场景
+## 使用场景&免责声明
 
 1.本工具仅供**CTF 竞赛本地靶场**场景使用。
 
