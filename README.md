@@ -1,23 +1,32 @@
 ## 暗涌免杀社区版
 
-> 基于Patch免杀工具
+> 一款快速免杀，力求速速上线工具
+<img width="1657" height="1091" alt="image" src="https://github.com/user-attachments/assets/2feb9d60-4145-413b-83a7-b1391df105fa" />
 
 
 ## 目录结构
 
 ```
 ├── DarkTide.exe
+├── word.json                    #轮播词
 ├── tools/
 │   ├── ZeroEye.exe              # 白文件扫描工具
 │   ├── sgn.exe                  # sgn混淆工具
 │   ├── ResourceHacker_Chs.exe   # 资源注入工具
 │   ├── subsystem_mod.exe        # PE 子系统修改工具
 │   ├── keystone.dll             # sgn 依赖
-│   ├── whiteFiles/              # 扫描后收录的白文件（.exe）
+│   ├── whiteFiles/              # 扫描后收录的白文件
 └── output/                      # 免杀生成结果目录
 ```
 
----
+### 参考工具
+| 工具 | 地址 |
+| :--- | :--- | 
+| **ZeroEye** | `https://github.com/ImCoriander/ZeroEye` |
+| **SGN** | `https://github.com/EgeBalci/sgn` | 
+| **ResourceHacker** | `网上找的中文版，要替换名称要一样。`| 
+
+
 
 ## 使用教程
 
@@ -26,8 +35,12 @@
 
 
 ## 更新记录
+### v1.0 - 2026-04-12 
+- 暗涌免杀社区版发布
+- 核心：基于 DFS 的深层函数劫持和基础函数劫持。
+- 工具：集成 `ZeroEye` 自动化扫描白文件。
 
-
+---
 
 ## 使用场景
 
