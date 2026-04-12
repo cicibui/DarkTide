@@ -53,7 +53,7 @@ https://www.bilibili.com/video/BV1wzDSBqEsQ
 ---
 
 ## 交流反馈
-微信群交流群，进群须知禁止黑灰产，发现移出群聊
+微信群交流群，进群须知禁止黑灰产，发现移出群聊，备注：加群才能通过
 
 <img width="566" height="1040" alt="e6895220d7d571fa42d72ee797e2d12a" src="https://github.com/user-attachments/assets/46fc2fef-8260-46f6-ac6b-f694860e7fb9" />
 
