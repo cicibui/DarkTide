@@ -54,10 +54,15 @@ https://www.bilibili.com/video/BV1wzDSBqEsQ
 
 ## 交流反馈
 微信群交流群
-<img width="1166" height="1640" alt="e6895220d7d571fa42d72ee797e2d12a" src="https://github.com/user-attachments/assets/46fc2fef-8260-46f6-ac6b-f694860e7fb9" />
+
+<img width="566" height="1040" alt="e6895220d7d571fa42d72ee797e2d12a" src="https://github.com/user-attachments/assets/46fc2fef-8260-46f6-ac6b-f694860e7fb9" />
 
 微信公众号
-![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/587a6cde-bce7-4cb3-9220-8cae03791696)
+
+![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/a43f12f5-88df-41c2-8725-30d629626b3e)
+
+
+
 
 
 ## 使用场景
