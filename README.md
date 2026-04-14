@@ -54,7 +54,7 @@ https://www.bilibili.com/video/BV1wzDSBqEsQ
 - 工具：集成 `ZeroEye` 自动化扫描白文件。
 
 ### v1.1 - 2026-04-13
-- 修复被defender查杀
+- 修复被defender查杀，去除基于 DFS 的深层函数劫持和基础函数劫持，使用更通用的入口点patch
 - 新shellcode模板，使用FNV1a hash 匹配 DLL 名，通过 hash 匹配函数名，使用NT函数
 
 ---
